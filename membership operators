@@ -1,0 +1,5 @@
+"v" in "venkatesh"  # True
+print("result:", "v" in "venkatesh")
+
+"l" is not  "tiger"  # True
+print("result:", "l" is not  "tiger")
